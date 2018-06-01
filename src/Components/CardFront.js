@@ -12,13 +12,13 @@ export  default class CardFront extends React.Component {
                         </div>
 
                         <div className='col-xs-6 side-front-content'>
-                            <h2>Durham based</h2>
+                            <h2>Durham, NC based</h2>
 
                             <h1>React Software Engineer</h1>
 
-                            <p>Manuel</p>
+                            <p>Manuel Ramos Gonzalez</p>
 
-                            <p>He is currently an intern for Code the Dream.</p>
+                            <p>He is currently an intern for the non-profit Code the Dream.</p>
 
                             <p>Passion for building great apps!</p>
                         </div>
